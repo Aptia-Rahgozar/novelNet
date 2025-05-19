@@ -1,0 +1,314 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "1984",
+      "overview": "1984 is a dystopian novel about totalitarianism, surveillance, propaganda, and the struggle for truth and freedom.",
+      "long_description": "George Orwell’s 1984 depicts a nightmarish totalitarian society where the Party, led by Big Brother, controls all aspects of life. Surveillance, propaganda, and thought control suppress individuality and truth. Winston Smith, a rebellious citizen, seeks freedom and love but faces brutal consequences. The novel explores themes of oppression, manipulation, and resistance, serving as a chilling warning about government overreach and the dangers of absolute power.",
+      "price": 14,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/1984.jpg",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 1,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10002,
+      "name": "Adieu Gary Cooper",
+      "overview": "Adieu Gary Cooper portrays a disillusioned American seeking freedom and identity in 1960s Swiss Alps.",
+      "long_description": "Romain Gary's Adieu Gary Cooper follows Lenny, a young American draft dodger who escapes to the Swiss Alps during the Vietnam War era. Embracing the life of a ski bum, he rejects societal norms and the traditional American hero archetype symbolized by Gary Cooper. Amidst a community of fellow expatriates, Lenny confronts themes of alienation, cultural disillusionment, and the search for authenticity, reflecting the countercultural sentiments of the 1960s.",
+      "price": 12,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/AdieuGaryCooper.jpg",
+      "image_local": "/assets/images/10002.avif",
+      "rating": 2,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10003,
+      "name": "Immortality",
+      "overview": "Milan Kundera's Immortality explores themes of identity, love, and the human desire for lasting significance.",
+      "long_description": "Immortality, a novel by Milan Kundera, delves into the intricate lives of Agnes, her family, and intertwines their narratives with historical figures like Goethe and Hemingway. The story examines the complexities of human relationships, the pursuit of meaning, and the concept of immortality beyond physical existence. Kundera's philosophical narrative challenges readers to reflect on the essence of life, the impact of our actions, and the enduring nature of personal legacy.",
+      "price": 13,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/Immortality.jpg",
+      "image_local": "/assets/images/10003.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10004,
+      "name": "In Search Of Lost Time",
+      "overview": "Marcel Proust's In Search of Lost Time explores memory, time, and society in early 20th-century France.",
+      "long_description": "In Search of Lost Time is a seven-volume novel by Marcel Proust, detailing the narrator's experiences from childhood to adulthood in late 19th and early 20th-century French high society. Through intricate character studies and philosophical reflections, Proust examines themes of memory, art, love, and the passage of time. The novel is renowned for its depth and introspection, particularly the famous &quot;episode of the madeleine,&quot; illustrating involuntary memory.",
+      "price": 80,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/InSearchOfLostTime.jpg",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10005,
+      "name": "The Brothers Karamazov",
+      "overview": "The Brothers Karamazov explores faith, doubt, and morality through the tumultuous lives of three brothers.",
+      "long_description": "Fyodor Dostoevsky's The Brothers Karamazov delves into the complex dynamics of the Karamazov family in 19th-century Russia. The novel centers on the three brothers—Dmitri, Ivan, and Alexei—each embodying distinct philosophical perspectives. Their interactions with their debauched father, Fyodor Pavlovich, lead to intense conflicts, culminating in a patricide that raises profound questions about faith, free will, and the nature of evil. Renowned for its deep psychological and philosophical insights, the novel is considered one of literature's greatest achievements.",
+      "price": 19,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/TheBrothersKaramazov.jpg",
+      "image_local": "/assets/images/10005.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10006,
+      "name": "The Call of the Wild",
+      "overview": "Jack London's The Call of the Wild follows Buck, a domesticated dog embracing his primal instincts.",
+      "long_description": "Published in 1903, Jack London's The Call of the Wild narrates the transformative journey of Buck, a pampered St. Bernard-Scotch Collie mix, who is stolen from his California home and sold into the harsh life of an Alaskan sled dog during the Klondike Gold Rush. As Buck confronts the brutal realities of the wilderness, he gradually reverts to his ancestral instincts, ultimately answering the compelling call of the wild.",
+      "price": 15,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/TheCallOfTheWild.jpg",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10007,
+      "name": "The Catcher in the Rye",
+      "overview": "The Catcher in the Rye follows Holden Caulfield's journey through teenage angst and alienation in 1950s NYC.",
+      "long_description": "J.D. Salinger's The Catcher in the Rye chronicles the experiences of 16-year-old Holden Caulfield after his expulsion from Pencey Prep, a prestigious boarding school. Set in 1950s New York City, the novel delves into Holden's feelings of isolation, his disdain for societal &quot;phoniness,&quot; and his deep yearning to protect the innocence of children. Through his encounters, Holden grapples with complex themes of identity, belonging, loss, and connection.",
+      "price": 17,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/TheCatcherInTheRye.jpg",
+      "image_local": "/assets/images/10007.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "The Metamorphosis",
+      "overview": "Franz Kafka's The Metamorphosis depicts Gregor Samsa's sudden transformation into a monstrous insect, exploring alienation.",
+      "long_description": "Published in 1915, Franz Kafka's The Metamorphosis follows Gregor Samsa, a traveling salesman who awakens to find himself transformed into a gigantic insect. This inexplicable change leads to his isolation from family and society, highlighting themes of alienation, identity, and the human condition. As Gregor's physical form becomes more grotesque, his family's tolerance wanes, culminating in tragic consequences. The novella is renowned for its surreal narrative and profound psychological insights.",
+      "price": 15,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/TheMetamorphosis.jpg",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10009,
+      "name": "The Old Man and the Sea",
+      "overview": "Ernest Hemingway's The Old Man and the Sea portrays an aging fisherman's epic struggle with a marlin.",
+      "long_description": "Published in 1952, Ernest Hemingway's The Old Man and the Sea tells the story of Santiago, an elderly Cuban fisherman who endures an intense battle with a giant marlin in the Gulf Stream. After 84 days without a catch, Santiago hooks the enormous fish, leading to a multi-day struggle that tests his endurance and spirit. The novella explores themes of perseverance, pride, and the relentless forces of nature.",
+      "price": 16,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/TheOldManAndTheSea.jpg",
+      "image_local": "/assets/images/10009.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10010,
+      "name": "The Sound and the Fury",
+      "overview": "The Sound and the Fury portrays the decline of the Compson family's Southern aristocratic legacy.",
+      "long_description": "William Faulkner's 1929 novel The Sound and the Fury explores the disintegration of the Compson family in early 20th-century Mississippi. Utilizing stream-of-consciousness narration, the book presents four distinct perspectives: Benjy, an intellectually disabled man; Quentin, his troubled brother; Jason, their cynical sibling; and Dilsey, the family's devoted servant. This structure delves into themes of time, memory, and familial decay.",
+      "price": 23,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/TheSoundAndTheFury.jpg",
+      "image_local": "/assets/images/10010.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10011,
+      "name": "The Stranger",
+      "overview": "Albert Camus's The Stranger follows Meursault, an emotionally detached man who commits an impulsive murder.",
+      "long_description": "The Stranger by Albert Camus is a 1942 novella that introduces Meursault, a French Algerian whose indifferent reaction to his mother's death sets the tone for his character. After a series of seemingly trivial events, he impulsively kills an Arab man, leading to his arrest and trial. The narrative delves into themes of absurdism, exploring the indifference of the universe and the human quest for meaning.",
+      "price": 15,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/TheStranger.jpg",
+      "image_local": "/assets/images/10011.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10012,
+      "name": "To Kill a Mockingbird",
+      "overview": "Harper Lee's To Kill a Mockingbird addresses racial injustice and moral growth in 1930s Alabama.",
+      "long_description": "Harper Lee's 1960 novel To Kill a Mockingbird is set in Maycomb, Alabama, during the 1930s. It follows Scout Finch, her brother Jem, and their father Atticus, a lawyer who defends Tom Robinson, a Black man falsely accused of raping a white woman. The narrative explores themes of racial injustice, moral growth, and empathy, establishing itself as a classic of modern American literature.",
+      "price": 17,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/ToKillAMockingbird.jpg",
+      "image_local": "/assets/images/10012.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10013,
+      "name": "To the Lighthouse",
+      "overview": "Virginia Woolf's To the Lighthouse examines the Ramsay family's experiences during summers on Scotland's Isle of Skye.",
+      "long_description": "Virginia Woolf's 1927 novel To the Lighthouse is set in the Ramsay family's summer home on Scotland's Isle of Skye. The narrative unfolds in three sections: &quot;The Window&quot; introduces the family dynamics and their plans to visit a nearby lighthouse; &quot;Time Passes&quot; portrays the passage of time, including personal losses and societal changes; and &quot;The Lighthouse&quot; depicts a long-delayed journey to the lighthouse, exploring themes of perception, memory, and the transient nature of life.",
+      "price": 19,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/ToTheLighthouse.jpg",
+      "image_local": "/assets/images/10013.avif",
+      "rating": 2,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10014,
+      "name": "Ulysses",
+      "overview": "James Joyce's Ulysses chronicles a single day in Dublin, paralleling Homer's epic Odyssey.",
+      "long_description": "James Joyce's 1922 novel Ulysses traces the experiences of three Dubliners—Leopold Bloom, Stephen Dedalus, and Molly Bloom—over the course of June 16, 1904. Employing stream-of-consciousness narration, the novel delves into their inner thoughts and perceptions, drawing parallels to Homer's ancient epic, the Odyssey. Celebrated for its innovative narrative techniques and deep exploration of human consciousness, Ulysses is hailed as a pinnacle of modernist literature.",
+      "price": 30,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/Ulysses.jpg",
+      "image_local": "/assets/images/10014.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10015,
+      "name": "War and Peace",
+      "overview": "Leo Tolstoy's War and Peace is an epic novel intertwining personal stories with the Napoleonic Wars.",
+      "long_description": "Published in 1869, War and Peace by Leo Tolstoy is a monumental work of literature. The novel follows the lives of several aristocratic families during the Napoleonic Wars, exploring themes of love, fate, and the impact of historical events on personal lives. Tolstoy masterfully combines fictional narratives with historical figures, providing a deep reflection on society, humanity, and the forces that shape our destinies.",
+      "price": 30,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/WarAndPeace.jpg",
+      "image_local": "/assets/images/10015.avif",
+      "rating": 2,
+      "in_stock": false,
+      "size": 1,
+      "best_seller": false
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10004,
+      "name": "In Search Of Lost Time",
+      "overview": "Marcel Proust's In Search of Lost Time explores memory, time, and society in early 20th-century France.",
+      "long_description": "In Search of Lost Time is a seven-volume novel by Marcel Proust, detailing the narrator's experiences from childhood to adulthood in late 19th and early 20th-century French high society. Through intricate character studies and philosophical reflections, Proust examines themes of memory, art, love, and the passage of time. The novel is renowned for its depth and introspection, particularly the famous &quot;episode of the madeleine,&quot; illustrating involuntary memory.",
+      "price": 80,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/InSearchOfLostTime.jpg",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10006,
+      "name": "The Call of the Wild",
+      "overview": "Jack London's The Call of the Wild follows Buck, a domesticated dog embracing his primal instincts.",
+      "long_description": "Published in 1903, Jack London's The Call of the Wild narrates the transformative journey of Buck, a pampered St. Bernard-Scotch Collie mix, who is stolen from his California home and sold into the harsh life of an Alaskan sled dog during the Klondike Gold Rush. As Buck confronts the brutal realities of the wilderness, he gradually reverts to his ancestral instincts, ultimately answering the compelling call of the wild.",
+      "price": 15,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/TheCallOfTheWild.jpg",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "The Metamorphosis",
+      "overview": "Franz Kafka's The Metamorphosis depicts Gregor Samsa's sudden transformation into a monstrous insect, exploring alienation.",
+      "long_description": "Published in 1915, Franz Kafka's The Metamorphosis follows Gregor Samsa, a traveling salesman who awakens to find himself transformed into a gigantic insect. This inexplicable change leads to his isolation from family and society, highlighting themes of alienation, identity, and the human condition. As Gregor's physical form becomes more grotesque, his family's tolerance wanes, culminating in tragic consequences. The novella is renowned for its surreal narrative and profound psychological insights.",
+      "price": 15,
+      "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/TheMetamorphosis.jpg",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    }
+  ],
+  "orders": [
+    {
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "Adieu Gary Cooper",
+          "overview": "Adieu Gary Cooper portrays a disillusioned American seeking freedom and identity in 1960s Swiss Alps.",
+          "long_description": "Romain Gary's Adieu Gary Cooper follows Lenny, a young American draft dodger who escapes to the Swiss Alps during the Vietnam War era. Embracing the life of a ski bum, he rejects societal norms and the traditional American hero archetype symbolized by Gary Cooper. Amidst a community of fellow expatriates, Lenny confronts themes of alienation, cultural disillusionment, and the search for authenticity, reflecting the countercultural sentiments of the 1960s.",
+          "price": 12,
+          "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/AdieuGaryCooper.jpg",
+          "image_local": "/assets/images/10002.avif",
+          "rating": 2,
+          "in_stock": true,
+          "size": 2,
+          "best_seller": false
+        },
+        {
+          "id": 10005,
+          "name": "The Brothers Karamazov",
+          "overview": "The Brothers Karamazov explores faith, doubt, and morality through the tumultuous lives of three brothers.",
+          "long_description": "Fyodor Dostoevsky's The Brothers Karamazov delves into the complex dynamics of the Karamazov family in 19th-century Russia. The novel centers on the three brothers—Dmitri, Ivan, and Alexei—each embodying distinct philosophical perspectives. Their interactions with their debauched father, Fyodor Pavlovich, lead to intense conflicts, culminating in a patricide that raises profound questions about faith, free will, and the nature of evil. Renowned for its deep psychological and philosophical insights, the novel is considered one of literature's greatest achievements.",
+          "price": 19,
+          "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/TheBrothersKaramazov.jpg",
+          "image_local": "/assets/images/10005.avif",
+          "rating": 3,
+          "in_stock": true,
+          "size": 3,
+          "best_seller": false
+        },
+        {
+          "id": 10011,
+          "name": "The Stranger",
+          "overview": "Albert Camus's The Stranger follows Meursault, an emotionally detached man who commits an impulsive murder.",
+          "long_description": "The Stranger by Albert Camus is a 1942 novella that introduces Meursault, a French Algerian whose indifferent reaction to his mother's death sets the tone for his character. After a series of seemingly trivial events, he impulsively kills an Arab man, leading to his arrest and trial. The narrative delves into themes of absurdism, exploring the indifference of the universe and the human quest for meaning.",
+          "price": 15,
+          "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/TheStranger.jpg",
+          "image_local": "/assets/images/10011.avif",
+          "rating": 3,
+          "in_stock": true,
+          "size": 3,
+          "best_seller": true
+        },
+        {
+          "id": 10012,
+          "name": "To Kill a Mockingbird",
+          "overview": "Harper Lee's To Kill a Mockingbird addresses racial injustice and moral growth in 1930s Alabama.",
+          "long_description": "Harper Lee's 1960 novel To Kill a Mockingbird is set in Maycomb, Alabama, during the 1930s. It follows Scout Finch, her brother Jem, and their father Atticus, a lawyer who defends Tom Robinson, a Black man falsely accused of raping a white woman. The narrative explores themes of racial injustice, moral growth, and empathy, establishing itself as a classic of modern American literature.",
+          "price": 17,
+          "poster": "https://eu.backendlessappcontent.com/2307FC03-7C61-4FC7-A995-E1A8D59E3F86/88089448-3EE8-4A74-9CC3-F603CBB5193F/files/images/ToKillAMockingbird.jpg",
+          "image_local": "/assets/images/10012.avif",
+          "rating": 3,
+          "in_stock": true,
+          "size": 1,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 63,
+      "quantity": 4,
+      "user": {
+        "name": "Aptia",
+        "email": "aptia@example.com",
+        "id": 1
+      },
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "aptia@example.com",
+      "password": "$2a$10$Y.o.gqGRTmW2nDR9e7sSZ.D/OcV14sYwPWGZdpiwWRyc7rtq6XfMK",
+      "name": "Aptia",
+      "id": 1
+    }
+  ]
+}
