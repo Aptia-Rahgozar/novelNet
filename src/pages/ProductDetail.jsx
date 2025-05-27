@@ -2,8 +2,8 @@ import { useState, useEffect } from "react";
 import { useParams } from "react-router";
 import { toast } from "react-toastify";
 import { Rating, useTitle } from "../components";
-import { useCart } from "../context";
 import { getProduct } from "../services";
+import { useCart } from "../context";
 
 export const ProductDetail = () => {
   const [product, setProduct] = useState({});
