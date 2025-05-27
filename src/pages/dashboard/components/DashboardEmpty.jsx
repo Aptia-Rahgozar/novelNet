@@ -5,7 +5,7 @@ export const DashboardEmpty = () => {
     <section className="text-xl text-center max-w-4xl mx-auto my-10 pt-5 pb-10 text-Accent dark:text-slate-100 border border-Secondary dark:border-darkSecondaryLight rounded">
       <div className="mt-5 mb-8">
         <p className="bi bi-cart text-green-600 text-7xl mb-5"></p>
-        <p>Oops! Your order dashboard looks empty!</p>
+        <p>Your order dashboard looks empty!</p>
         <p>Add eBooks to your cart from our store collection.</p>
       </div>
       <Link
